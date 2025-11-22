@@ -50,21 +50,30 @@ sudo apt install -y git python3 python3-pip python3-venv tmux nano
 ---
 
 ### 4. Clone Your Fork
-git clone https://github.com/
+~~~
+git clone your_fork_repo
+~~~
+~~~
 cd Forward_Tag_Remover_Bot
+~~~
+~~~
 python3 -m venv venv
+~~~
+~~~
 source venv/bin/activate
-
+~~~
 ---
 
 ### 5. Install Dependencies
+~~~
 pip install --upgrade pip && pip install -r requirements.txt
-
+~~~
 ---
 
 ### 6. Configure the Bot
+~~~
 nano config.py
-
+~~~
 ⚙️ required fields
 
 API_ID = your_api_id
@@ -85,10 +94,15 @@ Exit → `Ctrl + X`
 ---
 
 ### 7. Run the Bot
+~~~
 tmux new -s tagbot
+~~~
+~~~
 source venv/bin/activate
+~~~
+~~~
 python3 main.py
-
+~~~
 
 ➡️ Detach (keep running): `Ctrl + B`, then `D`
 
