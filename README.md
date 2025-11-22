@@ -32,7 +32,7 @@ A **Forward Tag Remover Bot** built with **Pyrogram** + **MongoDB**
 ---
 
 ### 2. Get Your Fork URL
-[https://github.com/](https://github.com/Learningbots79/Forward_Tag_Remover_Bot)
+https://github.com/Learningbots79/Forward_Tag_Remover_Bot
 
 
 ---
