@@ -38,7 +38,7 @@ async def check_force_sub(client, message):
 
 # ================================================================
 # Start Command
-# ================================================================
+# ================================================================.
 def init(app):
     @app.on_message(filters.command("start"))
     async def start_handler(client, message):

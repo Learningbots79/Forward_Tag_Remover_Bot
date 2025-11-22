@@ -5,7 +5,7 @@
 # Channel: https://t.me/learningbots79
 # YouTube: https://youtube.com/@learning_bots
 # License: Open-source (keep credits, no resale)
-# ============================================================
+# ============================================================.
 
 import logging
 from pyrogram import Client

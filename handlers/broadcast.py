@@ -20,7 +20,7 @@ OWNER_ID = Config.OWNER_ID
 
 # ================================================================
 # Broadcast Command
-# ================================================================
+# ================================================================.
 def init(app: Client):
 
     @app.on_message(filters.private & filters.command("broadcast") & filters.user(OWNER_ID))
