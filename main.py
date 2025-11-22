@@ -10,10 +10,10 @@
 import logging
 from pyrogram import Client
 from config import Config
-from handlers import setup_handlers   # <- ONLY THIS, because of __init__.py
+from handlers import setup_handlers  
 
 # ================================================================
-# LOGGING SETUP
+# Logging Setup
 # ================================================================
 logging.basicConfig(
     level=logging.INFO,
@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================================================================
-# BOT CLIENT
+# Bot Client
 # ================================================================
 app = Client(
     name="tag_remover_bot",
@@ -32,17 +32,17 @@ app = Client(
 )
 
 # ================================================================
-# LOAD HANDLERS
+# Load Handlers
 # ================================================================
 def load_handlers():
     try:
-        setup_handlers(app)  # <- loads all handlers from __init__.py
+        setup_handlers(app)
         logger.info("Handlers loaded successfully.")
     except Exception as e:
         logger.error(f"Error loading handlers: {e}")
 
 # ================================================================
-# MAIN ENTRY POINT
+# MAIN
 # ================================================================
 if __name__ == "__main__":
     logger.info("🚀 Starting bot...")

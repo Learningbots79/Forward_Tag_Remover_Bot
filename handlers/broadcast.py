@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 OWNER_ID = Config.OWNER_ID
 
 # ================================================================
-# INIT METHOD (REQUIRED FOR MAIN.PY)
+# Broadcast Command
 # ================================================================
 def init(app: Client):
 

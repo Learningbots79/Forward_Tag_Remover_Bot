@@ -19,7 +19,7 @@ UPDATES_CHANNEL = Config.UPDATES_CHANNEL
 DEV_USERNAME = Config.DEV_USERNAME
 
 # ================================================================
-# Check Force Sub
+# Check Force Sub 
 # ================================================================
 async def check_force_sub(client, message):
     for channel in FORCE_SUB_CHANNELS:
@@ -36,6 +36,9 @@ async def check_force_sub(client, message):
             return False
     return True
 
+# ================================================================
+# Start Command
+# ================================================================
 def init(app):
     @app.on_message(filters.command("start"))
     async def start_handler(client, message):
