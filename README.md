@@ -108,15 +108,6 @@ python3 main.py
 
 </details>
 
----
-
-<p align="center">
-  <a href="https://sevalla.com"><img src="https://img.shields.io/badge/Deploy%20on-Sevalla-orange?style=for-the-badge&logo=vercel"></a>
-</p>
-
-> ✅ Deploy your Forward Tag Remover Bot easily on **[Sevalla](https://sevalla.com)** — beginner-friendly hosting.
-
----
 
 <div align="center">
 
