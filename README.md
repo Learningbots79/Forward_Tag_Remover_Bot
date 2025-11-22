@@ -39,8 +39,8 @@ https://github.com/Learningbots79/Forward_Tag_Remover_Bot
 
 ### 3. Setup Your VPS  
 Install system packages:
-sudo apt update && sudo apt upgrade -y
-sudo apt install -y git python3 python3-pip python3-venv tmux nano
+`sudo apt update && sudo apt upgrade -y`
+`sudo apt install -y git python3 python3-pip python3-venv tmux nano`
 
 ---
 
