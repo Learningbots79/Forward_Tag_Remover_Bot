@@ -1,11 +1,11 @@
-# ============================================================
+# ==========================================================
 # Forward Tag Remover Bot
-# Author: learningbots79 (https://github.com/learningbots79) 
+# Author: learningbots79 (https://github.com/learningbots79)
 # Support: https://t.me/learning_bots
 # Channel: https://t.me/learningbots79
 # YouTube: https://youtube.com/@learning_bots
 # License: Open-source (keep credits, no resale)
-# ============================================================.
+# ==========================================================.
 
 import logging
 from pyrogram import Client
