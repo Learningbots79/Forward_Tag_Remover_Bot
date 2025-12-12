@@ -4,6 +4,9 @@
   <img src="https://files.catbox.moe/se9021.jpg" width="300" height="300" />
 </a>
 
+![Stars](https://img.shields.io/github/stars/learningbots79/Forward_Tag_Remover_Bot)
+![Forks](https://img.shields.io/github/forks/learningbots79/Forward_Tag_Remover_Bot)
+
 ----------------------------------------------------
 A **Forward Tag Remover Bot** built with **Pyrogram** + **MongoDB**
 
