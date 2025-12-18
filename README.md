@@ -4,8 +4,8 @@
   <img src="https://files.catbox.moe/se9021.jpg" width="300" height="300" />
 </a>
 
-![Stars](https://img.shields.io/github/stars/learningbots79/Forward_Tag_Remover_Bot)
-![Forks](https://img.shields.io/github/forks/learningbots79/Forward_Tag_Remover_Bot)
+![Stars](https://img.shields.io/github/stars/LearningBotsOfficial/Forward_Tag_Remover_Bot)
+![Forks](https://img.shields.io/github/forks/LearningBotsOfficial/Forward_Tag_Remover_Bot)
 
 ----------------------------------------------------
 A **Forward Tag Remover Bot** built with **Pyrogram** + **MongoDB**
@@ -35,7 +35,7 @@ A **Forward Tag Remover Bot** built with **Pyrogram** + **MongoDB**
 ---
 
 ### 2. Get Your Fork URL
-https://github.com/Learningbots79/Forward_Tag_Remover_Bot
+https://github.com/LearningBotsOfficial/Forward_Tag_Remover_Bot
 
 
 ---
@@ -112,17 +112,9 @@ python3 main.py
 </details>
 
 
-<div align="center">
-
-### ☕ Support Me!
-
-<a href="https://files.catbox.moe/4elv8g.jpg" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee" />
-</a>
-
-</div>
-
 ---
+
+## ---------------------
 
 ## 📱 Connect with Me
 
@@ -137,7 +129,7 @@ python3 main.py
 
 ## ⚠️ License / Usage Terms
 
-This project is open-source under a **custom license** by [Yash](https://github.com/learningbots79).
+This project is open-source under a **custom license** by [Yash](https://github.com/LearningBotsOfficial).
 
 ✅ You Can:
 - Use this code for personal or educational purposes  
@@ -154,7 +146,18 @@ please contact the author at [LearningBotsOfficial](https://t.me/LearningBotsOff
 
 ---
 
-**Author:** [learningbots79](https://github.com/learningbots79)  
+**Author:** [LearningBotsOfficial](https://github.com/LearningBotsOfficial)  
 **Support Group:** [@LearningBotsCommunity](https://t.me/LearningBotsCommunity)  
 **Update Channel:** [@learning_bots](https://t.me/learning_bots)  
 **YouTube:** [Learning Bots](https://youtube.com/@learning_bots)
+
+
+<div align="center">
+
+## ---------------------
+
+<a href="https://files.catbox.moe/wpaoo2.jpg" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee" />
+</a>
+
+</div>

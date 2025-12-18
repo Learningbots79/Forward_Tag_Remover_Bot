@@ -1,6 +1,6 @@
 # ============================================================
 # Forward Tag Remover Bot
-# Author: learningbots79 (https://github.com/learningbots79) 
+# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
 # Support: https://t.me/LearningBotsCommunity
 # Channel: https://t.me/learning_bots
 # YouTube: https://youtube.com/@learning_bots
@@ -13,7 +13,7 @@ class Config:
     BOT_TOKEN = "your_bot_token" # Get from @botfather
     OWNER_ID = your_user_id
 
-    FORCE_SUB_CHANNELS = ["learningbots79"] # channel username
+    FORCE_SUB_CHANNELS = ["LearningBotsOfficial"] # channel username
 
     UPDATES_CHANNEL = "your_Updates_Channel"
     DEV_USERNAME = "your_Username"
